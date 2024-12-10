@@ -1,14 +1,7 @@
 ---
 title: ホリデークリエイターの削除に対応しよう
 date: 2024-11-12 23:25:54
-tags:
-  - 統合版
-  - ブロック
-
-category:
-  - Minecraft
-  - アドオン
-cover: assets/cover/cover3.avif
+tags: 統合版, ブロック
 ---
 
 Minecraft統合版1.21.20でホリデークリエイターの実験が削除されたので、私がした対応をまとめます。
@@ -253,6 +246,6 @@ permutationsプロパティでは、`"condition"`でmolang演算子"or"(||)を�
 
 ## 参考リンク
 
-[Block Documentation - Block Traits | Microsoft Learn](https://learn.microsoft.com/ja-jp/minecraft/creator/reference/content/blockreference/examples/blocktraits?view=minecraft-bedrock-stable)
-[Minecraft Block Wizard](https://www.blockbench.net/plugins/minecraft_block_wizard)
+[Block Documentation - Block Traits | Microsoft Learn](https://learn.microsoft.com/ja-jp/minecraft/creator/reference/content/blockreference/examples/blocktraits?view=minecraft-bedrock-stable)<br>
+[Minecraft Block Wizard](https://www.blockbench.net/plugins/minecraft_block_wizard)<br>
 [Minecraftにオリジナルブロックを追加する | とかさんのブログ](https://tokamcwin10.blog.jp/article-37132278)
