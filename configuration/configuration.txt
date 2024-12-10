@@ -14,7 +14,7 @@ Landing page template: Landing Page Template
 ;; General config stuff
 ;; --------------------
 
-Separator:  ·
+Separator:  -
 Navigation: [Home](https://hako.weblog.lol), about, list, [RSS](https://hako.weblog.lol/rss.xml), [ATOM](https://hako.weblog.lol/atom.xml)
 Files path: /files/
 Landing page post count: 5
