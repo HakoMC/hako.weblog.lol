@@ -2,7 +2,7 @@
 Type: Post
 Date: 2024-11-12 23:25:54
 Title: support-holiday-creator
-Tags: 統合版, ブロック
+Tags: bedrock, block
 ---
 
 Minecraft統合版1.21.20でホリデークリエイターの実験が削除されたので、私がした対応をまとめます。
