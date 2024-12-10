@@ -7,17 +7,17 @@ Weblog title: Hako Note
 Weblog description: hakoのブログ
 Author: Hako
 // Canonical domain: elsewhere.tld
-Landing page: /home
+Landing page template: Landing Page Template
 
 
 ;; General config stuff
 ;; --------------------
 
 Separator:  ·
-// Navigation: about, another-page, <a href="https://example.com">Example</a>, [Example](https://example.com)
+Navigation: [Home](https://hako.weblog.lol), about, list, [RSS](https://hako.weblog.lol/rss.xml), [ATOM](https://hako.weblog.lol/atom.xml)
 Files path: /files/
-Landing page post count: 1
-// Landing page post length: 45 words
+Landing page post count: 5
+Landing page post length: 30 words
 Post template: Post Template
 
 
@@ -93,7 +93,7 @@ Recent posts format: <<[
 
 Post list format: <<[
 <ul>
-[post:begin]<li><a href="$location">$title</a></li>[post:end]
+[post:begin]<li><a href="$location">$title</a><small> - $date</small></li>[post:end]
 </ul>]>>
 
 
