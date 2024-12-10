@@ -1,1 +1,3 @@
 # hako.weblog.lol
+
+はこのブログです
