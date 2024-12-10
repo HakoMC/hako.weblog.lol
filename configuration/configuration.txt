@@ -7,7 +7,8 @@ Weblog title: Hako Note
 Weblog description: hakoのブログ
 Author: Hako
 // Canonical domain: elsewhere.tld
-Landing page : home
+Landing page: /home
+Landing page template: Landing Page Template
 
 
 ;; General config stuff
